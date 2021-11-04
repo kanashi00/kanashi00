@@ -6,18 +6,17 @@
 
 
 <h3 align="center">💻✨Skills DEV:✨💻</h3><br>
-
 <div align="center">
   <img align="center" alt="Ana-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Ana-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Ana-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></br>
+  <img align="center" alt="Ana-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ana-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ana-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
-<br>
-  
+</br>
+</br>  
 <div align="center">
   <a href="https://github.com/kanashi00">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=kanashi00&show_icons=true&theme=blue-green&hide=prs,contribs&count_private=true"/>
@@ -31,6 +30,7 @@
 - 🔭 Estou a procura do primeio emprego como dev;
 - 📚 Estudando desenolvimento web;
 - 🧩 Atualmente aprendendo a linguagem PHP;
+- 🎡 Meu lazer é assitir um bom filme,serie ou anime;
 - ⚡ Fun fact: As vezes pensam que eu estou brava, mas na verdade estou tentando ler a tela do computado, eu juro.
 
 ##
