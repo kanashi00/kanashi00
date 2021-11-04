@@ -1,4 +1,8 @@
-<h2 align="center">Olá! Me chamo Ana, e bem vind@ ao meu GITHUB 😎</h2></div>
+<h2 align="center">Olá! Me chamo Ana, e bem vind@ ao meu GITHUB 😎
+  
+<br><img align="center" src="https://pa1.narvii.com/6217/3382e79d8e82e924032811483279e822d50c619d_hq.gif" height="100" margin="0"><br>
+  
+</h2>
 
 
 <h3 align="center">💻✨Skills DEV:✨💻</h3><br>
@@ -21,9 +25,13 @@
 </div>
 
 ##
+  
 <h4 align="center">✨Algumas coisas aleatórias:✨</h4>
 
-- 🔭 Estou a procura da minha primeio emprego como dev;
+- 🔭 Estou a procura do primeio emprego como dev;
 - 📚 Estudando desenolvimento web;
 - 🧩 Atualmente aprendendo a linguagem PHP;
 - ⚡ Fun fact: As vezes pensam que eu estou brava, mas na verdade estou tentando ler a tela do computado, eu juro.
+
+##
+<h3 align="center">📧✨Redes Sociais✨📧</h3>
