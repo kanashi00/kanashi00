@@ -34,4 +34,4 @@
 - ⚡ Fun fact: As vezes pensam que eu estou brava, mas na verdade estou tentando ler a tela do computado, eu juro.
 
 ##
-<h3 align="center">📧✨Redes Sociais✨📧</h3>
+<h3 align="center">📧✨Outras Redes Sociais✨📧</h3>
