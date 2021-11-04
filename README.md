@@ -1,4 +1,4 @@
-<h2 align="center">Olá! Me chamo Ana, e bem vind@ ao meu GITHUB 😎
+<h2 align="center">Olá! Me chamo Ana, e bem vind@ ao meu GITHUB 😆
   
 <br><img align="center" src="https://pa1.narvii.com/6217/3382e79d8e82e924032811483279e822d50c619d_hq.gif" height="100" margin="0"><br>
   
