@@ -29,7 +29,7 @@
 
 - 🔭 Estou a procura do primeio emprego como dev;
 - 📚 Estudando desenolvimento web;
-- 🧩 Atualmente aprendendo a linguagem PHP;
+- 🧩 Atualmente aprendendo a linguagem PHP e Python;
 - 🎡 Meu lazer é assitir um bom filme,serie ou anime;
 - ⚡ Fun fact: As vezes pensam que eu estou brava, mas na verdade estou tentando ler a tela do computado, eu juro.
 
